@@ -76,7 +76,6 @@
 			children = (
 				B480377028FE7C8F000554FE /* project_ios */,
 				B480378128FE7C91000554FE /* project_iosTests */,
-				B480378B28FE7C91000554FE /* project_iosUITests */,
 				B480376F28FE7C8F000554FE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -113,6 +112,7 @@
 		B480378128FE7C91000554FE /* project_iosTests */ = {
 			isa = PBXGroup;
 			children = (
+				B480378B28FE7C91000554FE /* project_iosUITests */,
 				B480378228FE7C91000554FE /* project_iosTests.swift */,
 			);
 			path = project_iosTests;
